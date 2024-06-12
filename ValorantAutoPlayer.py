@@ -269,7 +269,7 @@ def printInfo():
     print("\t- the application (Spotify, AppleMusic, YouTube in Browser, etc.) that is playing your media is opened")
     print("\t- VALORANT Resolution is \"1920 x 1080 16:9\" (Framerate / Refreshrate does not matter)")
     print("\t- VALORANT is running on the systems primary monitor")
-    print("\t- VALORANT language is to english")
+    print("\t- VALORANT language is set to english")
     print("\t- VALORANT Display Mode is \"Fullscreen\" or \"Windowed Fullscreen\"")
     print("\t- Start ValorantAutoPlayer while not ingame and make sure the media is playing before you queue up for a game")
 
